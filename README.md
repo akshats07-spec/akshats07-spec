@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergraduate**: B.Tech in **Artificial Intelligence** at **Zenith School of AI (KRMU)**.
+- 🎓 **Undergraduate**: 1st Year B.Tech in **Artificial Intelligence** at **Zenith School of AI (KRMU)**.
 - 💡 **Passionate about**: LLM Applications, Prompt Engineering, Agentic AI, and High-Performance Backend Architectures.
 - 🏆 **Hackathons & Competitions**:
   - **Google AI Hackathon**: Built & submitted **LearnMate** (Powered by Gemini 3.8 Flash, React 19, and FastAPI).
